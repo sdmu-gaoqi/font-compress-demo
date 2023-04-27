@@ -1,0 +1,13 @@
+{
+  "name": "font-util",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wa_gg <1224362143@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "font-spider ./index.html"
+  },
+  "dependencies": {
+    "font-spider": "^1.3.5"
+  }
+}
